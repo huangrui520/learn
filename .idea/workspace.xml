@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="29d40bd7-aac4-4649-a4a8-25d829a658eb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y1DGOvjwOJK1ko1YkFjC2lWOlE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaLearn\IJ\learn\src" />
+      <recent name="D:\JavaLearn\IJ\learn\src\com\socket" />
+      <recent name="D:\JavaLearn\IJ\learn\lib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JavaLearn\IJ\learn\src\com\socket" />
+      <recent name="D:\JavaLearn\IJ\learn\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MyServer">
+    <configuration name="Client1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.socket.CS.Client1" />
+      <module name="learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.socket.CS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.socket.CS.Client2" />
+      <module name="learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.socket.CS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MuServerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.socket.MuServerDemo" />
+      <module name="learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.socket.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.socket.MyServer" />
+      <module name="learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.socket.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.socket.CS.Server" />
+      <module name="learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.socket.CS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyServer" />
+        <item itemvalue="Application.Client2" />
+        <item itemvalue="Application.Client1" />
+        <item itemvalue="Application.Server" />
+        <item itemvalue="Application.MuServerDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29d40bd7-aac4-4649-a4a8-25d829a658eb" name="Default Changelist" comment="" />
+      <created>1582101110198</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582101110198</updated>
+      <workItem from="1582101115635" duration="1048000" />
+      <workItem from="1582363763070" duration="593000" />
+      <workItem from="1582372731984" duration="275000" />
+      <workItem from="1582373102622" duration="2090000" />
+      <workItem from="1582376550687" duration="128000" />
+      <workItem from="1582376804186" duration="5402000" />
+      <workItem from="1582423163214" duration="131000" />
+      <workItem from="1582433300362" duration="688000" />
+      <workItem from="1582444931826" duration="15381000" />
+      <workItem from="1582546443633" duration="1792000" />
+      <workItem from="1582962455919" duration="131000" />
+      <workItem from="1583153851375" duration="1304000" />
+      <workItem from="1583155208438" duration="985000" />
+      <workItem from="1583156288788" duration="330000" />
+      <workItem from="1583922276206" duration="2142000" />
+      <workItem from="1583928468871" duration="2309000" />
+      <workItem from="1583936690178" duration="540000" />
+      <workItem from="1583937355708" duration="28000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Intentions" timestamp="1582448334315">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Intentions/0.0.1280.680@0.0.1280.680" timestamp="1582448334315" />
+    <state x="233" y="0" key="#Notifications" timestamp="1582375976330">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Notifications/0.0.1280.680@0.0.1280.680" timestamp="1582375976330" />
+    <state x="179" y="0" key="#Tomcat_Server" timestamp="1583156451073">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="179" y="0" key="#Tomcat_Server/0.0.1280.680@0.0.1280.680" timestamp="1583156451073" />
+    <state x="371" y="96" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1582376394884">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="96" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1280.680@0.0.1280.680" timestamp="1582376394884" />
+    <state x="337" y="143" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582372978368">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1582372978368" />
+    <state x="381" y="175" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1582263993847">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="381" y="175" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1280.680@0.0.1280.680" timestamp="1582263993847" />
+    <state x="446" y="25" key="#com.intellij.ide.util.MemberChooser" timestamp="1582455721013">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="25" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1582455721013" />
+    <state x="435" y="94" key="FileChooserDialogImpl" timestamp="1583156446590">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="435" y="94" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1583156446590" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1583924427025">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1583924427025" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1583924427024">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1583924427024" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1583924427024">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1583924427024" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1583924427024">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1583924427024" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1582470666171">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1582470666171" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1582470666171">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1582470666171" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1582470666171">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1582470666171" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1582470666171">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1582470666171" />
+    <state x="135" y="0" key="SettingsEditor" timestamp="1583937002584">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="135" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1583937002584" />
+    <state x="349" y="233" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1582468122109">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="349" y="233" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.680@0.0.1280.680" timestamp="1582468122109" />
+    <state x="28" y="0" key="new project wizard" timestamp="1583937382201">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="28" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1583937382201" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1582380195748">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1582380195748" />
+  </component>
+</project>
